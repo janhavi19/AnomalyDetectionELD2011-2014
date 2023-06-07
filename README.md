@@ -1,4 +1,4 @@
-# AnomalyDetectionELD2011-2014
+# Master thesis- Anomaly Detection for timeseries data
 
 The importance of energy conservation and efficient energy utilization has significantly increased
 in today’s world, leading to the need for monitoring systems and fault detection methods for these
